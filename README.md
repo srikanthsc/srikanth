@@ -100,9 +100,11 @@ Find out more about me & feel free to connect with me here:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=srikanthsc&hide_border=true&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srikanthsc&show_icons=true&locale=en&layout=compact&theme=radical" alt="srikanthsc" />
 </p>
+<br>
 
+[![srikanthsc's github trophy](https://github-profile-trophy.vercel.app/?username=srikanthsc&row=1)](https://github.com/srikanthsc/github-profile-trophy)
 
-
+<br>
 
 <p align="center">
    <img src="https://github.com/srikanthsc/srikanthsc/blob/output/github-contribution-grid-snake.svg" alt="snake">
@@ -145,7 +147,5 @@ No Activity Tracked This Week
 <br>
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<br>
-<p align="center">
-[![srikanthsc's github trophy](https://github-profile-trophy.vercel.app/?username=srikanthsc&row=1)](https://github.com/srikanthsc/github-profile-trophy)
-</p>
+
+
