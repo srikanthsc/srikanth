@@ -103,7 +103,7 @@ Find out more about me & feel free to connect with me here:
 <br>
 
 <p align="center">
-  <a href="https://github.com/srikanthsc/github-profile-trophy"><img alig src="https://github-profile-trophy.vercel.app/?username=srikanthsc&theme=onedark&column=7" /></a>
+  <a href="https://github.com/srikanthsc/github-profile-trophy"><img alig src="https://github-profile-trophy.vercel.app/?username=srikanthsc&theme=buddhism&column=7" /></a>
 </p>
 
 
