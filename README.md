@@ -26,6 +26,7 @@ Find out more about me & feel free to connect with me here:
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
+![](https://visitor-badge.glitch.me/badge?page_id=srikanthsc)
 
 ---
 
@@ -75,7 +76,7 @@ Find out more about me & feel free to connect with me here:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=srikanthsc&hide_border=true&theme=radical" />
 </p>
 
-
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srikanthsc&show_icons=true&locale=en&layout=compact&theme=radical" alt="srikanthsc" /></p>
 ---
 
 <p align="center">
