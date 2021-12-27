@@ -3,7 +3,7 @@
 
 <img src="header_.png">
 
-I am Srikanth Collaty, currently pursuing my 4th year of IT engineering degree from [ESIEA](https://www.esiea.fr/). I am a Tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me lifting weights in the gym or at my desk sketching stuff.<img align='right' src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="90" height="100"> 
+I am Srikanth Collaty, currently pursuing my 4th year of IT engineering degree from [ESIEA](https://www.esiea.fr/). I am a Tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me lifting weights in the gym or at my desk sketching stuff.<img align='center' src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="90" height="100"> 
 <br>
 <br>
 <br>
