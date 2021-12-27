@@ -73,7 +73,8 @@ Find out more about me & feel free to connect with me here:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 <br>
-<img align="center" src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="100">
+<p align="center">
+<img align="center" src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="100"></p>
 <br>
 ---
 ### Spotify Playing 🎧
