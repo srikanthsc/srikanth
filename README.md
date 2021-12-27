@@ -94,32 +94,11 @@ Find out more about me & feel free to connect with me here:
 
 
 <!-- BLOG-POST-LIST:START -->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    169 commits    ██████████░░░░░░░░░░░░░░░   40.24% 
-🌆 Daytime    162 commits    █████████░░░░░░░░░░░░░░░░   38.57% 
-🌃 Evening    8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9% 
-🌙 Night      81 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.29%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Chicago
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 26/12/2021
+- [Hacktoberfest 2021: My Experience](https://dev.to/asmit2952/hacktoberfest-2021-my-experience-3k5l)
+- [Make your own color palette for next project!](https://dev.to/asmit2952/make-your-own-color-palette-for-next-project-28pe)
+- [Exploring Appwrite](https://dev.to/asmit2952/exploring-appwrite-1nh5)
+- [Getting started with Appwrite](https://dev.to/asmit2952/getting-started-with-appwrite-3oic)
+- [Getting started with Datree](https://dev.to/asmit2952/getting-started-with-datree-581)
 <!-- BLOG-POST-LIST:END -->
 
 ![image](https://github.com/srikanthsc/srikanthsc/blob/main/img/Capture1_2.PNG)
