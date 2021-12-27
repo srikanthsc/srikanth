@@ -128,4 +128,4 @@ No Activity Tracked This Week
 
 ![image](https://github.com/srikanthsc/srikanthsc/blob/main/img/Capture1_2.PNG)
 <br>
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg=250x250)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
