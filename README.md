@@ -93,3 +93,32 @@ Find out more about me & feel free to connect with me here:
 </p>
 
 
+<!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    169 commits    ██████████░░░░░░░░░░░░░░░   40.24% 
+🌆 Daytime    162 commits    █████████░░░░░░░░░░░░░░░░   38.57% 
+🌃 Evening    8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9% 
+🌙 Night      81 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.29%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 26/12/2021
+<!--END_SECTION:waka-->
+
