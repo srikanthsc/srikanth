@@ -73,7 +73,7 @@ Find out more about me & feel free to connect with me here:
 ---
 ### Spotify Playing 🎧
 [<img src="https://novatorem-srikanthsc.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/vgovhdw0mx55gv6gcrd23dwj3)
- [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+ [![Spotify](https://novatorem-srikanthsc.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/vgovhdw0mx55gv6gcrd23dwj3)
 ---
 ## 📈 Stats
 
