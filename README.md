@@ -71,22 +71,18 @@ Find out more about me & feel free to connect with me here:
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asmit2952&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asmit2952&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=srikanthsc&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=srikanthsc&hide_border=true&theme=radical" />
 </p>
 
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest 2021: My Experience](https://dev.to/asmit2952/hacktoberfest-2021-my-experience-3k5l)
-- [Make your own color palette for next project!](https://dev.to/asmit2952/make-your-own-color-palette-for-next-project-28pe)
-- [Exploring Appwrite](https://dev.to/asmit2952/exploring-appwrite-1nh5)
-- [Getting started with Appwrite](https://dev.to/asmit2952/getting-started-with-appwrite-3oic)
-- [Getting started with Datree](https://dev.to/asmit2952/getting-started-with-datree-581)
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
 <p align="center">
-   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
+   <img src="https://github.com/srikanthsc/srikanth/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
