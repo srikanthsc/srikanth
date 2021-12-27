@@ -102,7 +102,7 @@ Find out more about me & feel free to connect with me here:
 </p>
 <br>
 
-[![srikanthsc's github trophy](https://github-profile-trophy.vercel.app/?username=srikanthsc&theme=onedark)](https://github.com/srikanthsc/github-profile-trophy)
+[![srikanthsc's github trophy](https://github-profile-trophy.vercel.app/?username=srikanthsc&theme=buddhism)](https://github.com/srikanthsc/github-profile-trophy)
 
 
 <br>
