@@ -19,17 +19,17 @@ Find out more about me & feel free to connect with me here:
 	<a href="">
 		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 	</a>
-  <a href="https://asmit2952.github.io/">
+  <a href="">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
-  <a href="mailto:asmitbm2952002@gmail.com">
+  <a href="mailto:srikanthcollaty92@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
 
 ---
 
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Asmit2952&hide_border=true&theme=redical)
+![Srikanth's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=srikanthsc&hide_border=true&theme=redical)
 
 ---
 
