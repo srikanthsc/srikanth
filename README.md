@@ -72,7 +72,7 @@ Find out more about me & feel free to connect with me here:
 
 ---
 ### Spotify Playing 🎧
-[<img src="https://music-srikanthsc.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/vgovhdw0mx55gv6gcrd23dwj3)
+[<img src="https://novatorem-srikanthsc.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/vgovhdw0mx55gv6gcrd23dwj3)
 ---
 ## 📈 Stats
 
