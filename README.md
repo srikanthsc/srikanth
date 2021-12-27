@@ -1,3 +1,5 @@
+<img align="center" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<br>
 # Hey, I am Srikanth! Great to see you here! <img src="wave.gif" width="30px">  ![](https://visitor-badge.glitch.me/badge?page_id=srikanthsc) 
 
 
