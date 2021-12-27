@@ -5,6 +5,7 @@
 I am Srikanth Collaty, currently pursuing my 4th year of IT engineering degree from [ESIEA](https://www.esiea.fr/). I am a Tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me lifting weights in the gym or at my desk sketching stuff.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=srikanthsc)
+<br>
 Find out more about me & feel free to connect with me here:
 
 <p align="center">
