@@ -93,7 +93,7 @@ Find out more about me & feel free to connect with me here:
 </p>
 
 
-<!--START_SECTION:waka-->
+<!-- BLOG-POST-LIST:START -->
 **I'm an Early 🐤** 
 
 ```text
@@ -120,7 +120,7 @@ No Activity Tracked This Week
 
 
  Last Updated on 26/12/2021
-<!--END_SECTION:waka-->
+<!-- BLOG-POST-LIST:END -->
 
 ![image](https://github.com/srikanthsc/srikanthsc/blob/main/img/Capture1_2.PNG)
 
