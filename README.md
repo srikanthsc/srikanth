@@ -86,7 +86,8 @@ Find out more about me & feel free to connect with me here:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srikanthsc&show_icons=true&locale=en&layout=compact&theme=radical" alt="srikanthsc" />
 </p>
 
-
+<br>
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 
 <p align="center">
