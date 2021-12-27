@@ -7,7 +7,7 @@ I am Srikanth Collaty, currently pursuing my 4th year of IT engineering degree f
 <br>
 <br>
 <p align="center">
-<img align="center" src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="100" height="150"></p> 
+<img align="center" src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="230"></p> 
 <br>
 <br>
 <br>
