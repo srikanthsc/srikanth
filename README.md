@@ -78,7 +78,7 @@ Find out more about me & feel free to connect with me here:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=srikanthsc&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=srikanthsc&hide_border=true&theme=radical" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srikanthsc&show_icons=true&locale=en&layout=compact&theme=radical" alt="srikanthsc" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srikanthsc&show_icons=true&locale=en&layout=compact&theme=radical" alt="srikanthsc" />
 </p>
 
 
