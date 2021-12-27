@@ -105,6 +105,8 @@ Find out more about me & feel free to connect with me here:
 [![srikanthsc's github trophy](https://github-profile-trophy.vercel.app/?username=srikanthsc&row=1)](https://github.com/srikanthsc/github-profile-trophy)
 
 <br>
+[![Sparkline](https://stars.medv.io/srikanthsc/badges.svg)](https://stars.medv.io/srikanthsc/badges)
+<br>
 
 <p align="center">
    <img src="https://github.com/srikanthsc/srikanthsc/blob/output/github-contribution-grid-snake.svg" alt="snake">
