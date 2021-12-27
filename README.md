@@ -71,10 +71,7 @@ Find out more about me & feel free to connect with me here:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
-### Spotify Playing 🎧
-[<img src="https://novatorem-srikanthsc.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/vgovhdw0mx55gv6gcrd23dwj3)
- [![Spotify](https://novatorem-five-xi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/vgovhdw0mx55gv6gcrd23dwj3)
----
+
 ## 📈 Stats
 
 <p align="center">
