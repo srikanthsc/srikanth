@@ -7,16 +7,16 @@ I am Srikanth Collaty, currently pursuing my 4th year of IT engineering degree f
 Find out more about me & feel free to connect with me here:
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/asmit-malakannawar/">
+	<a href="https://www.linkedin.com/in/srikanth-collaty-9343a520b/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://twitter.com/Asmit_2952">
+	<a href="">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
-	<a href="https://www.instagram.com/asmitmalakannawar/">
+	<a href="">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 	</a>
-	<a href="https://dev.to/asmit2952">
+	<a href="">
 		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 	</a>
   <a href="https://asmit2952.github.io/">
