@@ -28,7 +28,8 @@ Find out more about me & feel free to connect with me here:
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
-
+<p align="center">
+<img align="center" src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="100"></p>
 
 ---
 
@@ -73,10 +74,8 @@ Find out more about me & feel free to connect with me here:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 <br>
-<p align="center">
-<img align="center" src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="100"></p>
-<br>
-<br>
+
+
 ---
 ### Spotify Playing 🎧
 
