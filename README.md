@@ -74,7 +74,7 @@ Find out more about me & feel free to connect with me here:
 ---
 ### Spotify Playing 🎧
 <p align="center">
-	![spotify-github-profile](default.svg)
+	![spotify-github-profile](/default.svg)
 </p>
 ---
 ## 📈 Stats
