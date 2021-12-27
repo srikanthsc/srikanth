@@ -72,7 +72,7 @@ Find out more about me & feel free to connect with me here:
 
 ---
 ### Spotify Playing 🎧
-[![Spotify](https://music-two-sigma.vercel.app/api/spotify)](https://open.spotify.com/user/vgovhdw0mx55gv6gcrd23dwj3)
+[![Spotify](https://music-git-main-srikanthsc.vercel.app/api/spotify)](https://open.spotify.com/user/sc07)
 ---
 ## 📈 Stats
 
