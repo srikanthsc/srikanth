@@ -84,9 +84,9 @@ Find out more about me & feel free to connect with me here:
 
 ---
 ### Spotify Playing 🎧
-<p align="center">
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vgovhdw0mx55gv6gcrd23dwj3&cover_image=true&theme=novatorem&bar_color=288a15&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-	</p>
+	
 ---
 
 ## 📈 Stats
