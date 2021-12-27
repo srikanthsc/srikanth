@@ -1,4 +1,4 @@
-# Hey, I am Srikanth! Great to see you here! <img src="wave.gif" width="30px">  ![](https://visitor-badge.glitch.me/badge?page_id=srikanthsc) >
+# Hey, I am Srikanth! Great to see you here! <img src="wave.gif" width="30px">  ![](https://visitor-badge.glitch.me/badge?page_id=srikanthsc) 
 
 
 <img src="header_.png">
