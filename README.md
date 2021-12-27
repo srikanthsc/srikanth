@@ -72,7 +72,7 @@ Find out more about me & feel free to connect with me here:
 
 ---
 ### Spotify Playing 🎧
-[![Spotify](https://sc07.app/api/spotify)](https://open.spotify.com/user/sc07)
+[![Spotify](novatorem-kyzbk7wxl-sc07.vercel.app/api/spotify)](https://open.spotify.com/user/sc07)
 ---
 ## 📈 Stats
 
