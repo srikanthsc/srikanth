@@ -76,6 +76,7 @@ Find out more about me & feel free to connect with me here:
 <p align="center">
 <img align="center" src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="100"></p>
 <br>
+<br>
 ---
 ### Spotify Playing 🎧
 
