@@ -102,7 +102,9 @@ Find out more about me & feel free to connect with me here:
 </p>
 <br>
 
-[![srikanthsc's github trophy](https://github-profile-trophy.vercel.app/?username=srikanthsc&row=1)](https://github.com/srikanthsc/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/srikanthsc/github-profile-trophy"><img alig src="https://github-profile-trophy.vercel.app/?username=srikanthsc&theme=onedark&column=7" /></a>
+</p>
 
 
 <br>
