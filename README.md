@@ -1,8 +1,9 @@
-# Hey, I am Srikanth! Great to see you here! <img src="wave.gif" width="30px">  ![](https://visitor-badge.glitch.me/badge?page_id=srikanthsc)
+# Hey, I am Srikanth! Great to see you here! <img src="wave.gif" width="30px">  ![](https://visitor-badge.glitch.me/badge?page_id=srikanthsc) <img align="right" alt="GIF" height="90px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 
 <img src="header_.png">
 
-I am Srikanth Collaty, currently pursuing my 4th year of IT engineering degree from [ESIEA](https://www.esiea.fr/). I am a Tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me lifting weights in the gym or at my desk sketching stuff.<img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+I am Srikanth Collaty, currently pursuing my 4th year of IT engineering degree from [ESIEA](https://www.esiea.fr/). I am a Tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me lifting weights in the gym or at my desk sketching stuff.
 
 
 Find out more about me & feel free to connect with me here:
