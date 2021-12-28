@@ -149,6 +149,13 @@ No Activity Tracked This Week
 <br>
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
+	
+
+&nbsp;&nbsp; 
+<div align="center">
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  &copy; 2021 Srikanthsc
+</div>
 
 
 
