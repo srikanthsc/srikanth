@@ -156,3 +156,9 @@ No Activity Tracked This Week
 
 
 
+<a href="https://github.com/srikanthsc/github-stats">
+   
+![](https://github.com/srikanthsc/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/srikanthsc/github-stats/blob/master/generated/languages.svg)
+
+</a>
