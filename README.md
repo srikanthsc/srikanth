@@ -112,7 +112,7 @@ Find out more about me & feel free to connect with me here:
 <p align="center">
    <img src="https://github.com/srikanthsc/srikanthsc/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
-<a href="https://github.com/jstrieb/github-stats">
+<a href="https://github.com/srikanthsc/github-stats">
 
 ![](https://github.com/srikanthsc/github-stats/blob/master/generated/overview.svg)
 </a>
