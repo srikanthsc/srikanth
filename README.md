@@ -153,5 +153,6 @@ No Activity Tracked This Week
 <br>
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
+[![Sparkline](https://stars.medv.io/srikanthsc/badges.svg)](https://stars.medv.io/srikanthsc/badges)
 
 
