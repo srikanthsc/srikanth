@@ -157,7 +157,7 @@ No Activity Tracked This Week
   &copy; 2021 srikanthsc
 </div>
 
-![]<img src="https://github.com/srikanthsc/srikanthsc/blob/main/img/logo.PNG" width="150" height="90">
+<img src="https://github.com/srikanthsc/srikanthsc/blob/main/img/logo.PNG" width="150" height="90">
 
 
 
