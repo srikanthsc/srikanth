@@ -1,4 +1,4 @@
-![]<img src="https://github.com/srikanthsc/srikanthsc/blob/main/img/logo.PNG" width="50" height="40">
+![]<img src="https://github.com/srikanthsc/srikanthsc/blob/main/img/logo.PNG" width="90" height="80">
 # Hey, I am Srikanth! Great to see you here! <img src="wave.gif" width="30px">  ![](https://visitor-badge.glitch.me/badge?page_id=srikanthsc) <img align="right" alt="GIF" height="40px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> 
 
 
