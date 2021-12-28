@@ -153,7 +153,7 @@ No Activity Tracked This Week
 
 &nbsp;&nbsp; 
 <div align="center">
-  :😎: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  :sunglasses: Thanks for watching my profile! Have a nice day! :wink: <br/>
   &copy; 2021 srikanthsc
 </div>
 
