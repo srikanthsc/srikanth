@@ -114,7 +114,7 @@ Find out more about me & feel free to connect with me here:
 </p>
 <a href="https://github.com/jstrieb/github-stats">
 
-![](https://github.com/joiellantero/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/srikanthsc/github-stats/blob/master/generated/overview.svg)
 </a>
 
 <!--START_SECTION:waka-->
