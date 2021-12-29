@@ -10,6 +10,7 @@ I am Srikanth Collaty, currently pursuing my 4th year of IT engineering degree f
 <img align="center" src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="230"></p> 
 <br>
 <br>
+<img align="left" alt="GIF" src="https://github.com/srikanthsc/srikanthsc/blob/main/coding.gif?raw=true" width="408" height="318" />
 <br>
 
 Find out more about me & feel free to connect with me here:
@@ -160,5 +161,5 @@ No Activity Tracked This Week
 <img src="https://github.com/srikanthsc/srikanthsc/blob/main/img/logo.PNG" width="150" height="90">
 	</p>
 
-<img align="center" alt="GIF" src="https://github.com/srikanthsc/srikanthsc/blob/main/coding.gif?raw=true" width="408" height="318" />
+
 
