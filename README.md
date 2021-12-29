@@ -161,5 +161,6 @@ No Activity Tracked This Week
 <img src="https://github.com/srikanthsc/srikanthsc/blob/main/img/logo.PNG" width="150" height="90">
 	</p>
 
-
+<p align="center">
+<img align="center" src="https://github.com/srikanthsc/srikanthsc/blob/main/Cmas.gif" width="50"></p>
 
