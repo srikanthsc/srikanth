@@ -157,7 +157,7 @@ No Activity Tracked This Week
 &nbsp;&nbsp; 
 <div align="center">
   :sunglasses: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2021 srikanthsc
+  &copy; 2022 srikanthsc
 </div>
 <p align="center">
 <img src="https://github.com/srikanthsc/srikanthsc/blob/main/img/logo.PNG" width="150" height="90">
